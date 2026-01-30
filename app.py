@@ -92,7 +92,7 @@ a,b = pair
 # -----------------------
 # Header + Progress
 # -----------------------
-st.title("🏈 QB Elo Ranker")
+st.title("🏈 Ultimate QB Ranker")
 total = len(st.session_state.pairs)
 done = st.session_state.pair_index
 
